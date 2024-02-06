@@ -1,5 +1,8 @@
 
 import videos.*;
+
+import javax.swing.JOptionPane;
+
 import gui.*;
 import gui.Botoes.*;
 
@@ -12,12 +15,11 @@ public class Principal {
         // Conteudo
         Anime anime = new Anime();
         // Conteudo
-        Documentario documeto = new Documentario();
+        Documentario documento = new Documentario();
         // Conteudo
         Novela novela = new Novela();
         // Conteudo
         Serie serie = new Serie();
-
         // Campo do gui
 
         Janela janela = new Janela();

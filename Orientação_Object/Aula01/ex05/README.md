@@ -4,10 +4,47 @@
 
 videos/
     Filme
+        < Conteudo >
+            Nome
+            tempo 
+            AtoresPrincipais
+            Categoria
+            Idade
     Serie 
+        < Conteudo >
+            Nome
+            tempoEpisodio
+            Temporada
+            AtoresPrincipais
+            Categoria
+            Idade
+
     Anime
+       < Conteudo >
+            Nome
+            tempoEpisodio
+            Temporada
+            AtoresPrincipais
+            Categoria
+            Idade
+
     Novela
+         <!-- Conteudo -->
+            Nome
+            tempoEpisodio
+            Temporada
+            AtoresPrincipais
+            Categoria
+            Idade
+
     Documentario
+         <!-- Conteudo -->
+            Nome
+            tempoEpisodio
+            Temporada
+            AtoresPrincipais
+            Categoria
+            Idade
 
 
 gui 
@@ -25,3 +62,6 @@ gui
    import  -> tem 2 forma de inporta 
     1 import videos.Filme;
     2 import videos.*;
+
+
+ 
