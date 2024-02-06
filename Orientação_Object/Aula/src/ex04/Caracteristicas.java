@@ -1,10 +1,7 @@
 package ex04;
 
-import java.util.Scanner;
-
 public class Caracteristicas {
     public static void main(String[] args) {
-     
 
         Celular Modelo15ProMax = new Celular();
         Modelo15ProMax.nome = "iPhoe 15 Pro-Max";
@@ -36,8 +33,6 @@ public class Caracteristicas {
         System.err.println("Opção 2: iPhone 15 Pro");
         System.err.println("Opção 3: iPhone 15");
 
-
-       
         // Modelo15ProMax.Status15ProMax();
         // Modelo15Pro.Status15Pro();
         // Modelo15.Status15();
