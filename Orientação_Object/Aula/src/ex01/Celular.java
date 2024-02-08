@@ -1,4 +1,5 @@
 package ex01;
+
 public class Celular {
 
     String nome;

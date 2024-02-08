@@ -1,8 +1,5 @@
 
 import videos.*;
-
-import javax.swing.JOptionPane;
-
 import gui.*;
 import gui.Botoes.*;
 
