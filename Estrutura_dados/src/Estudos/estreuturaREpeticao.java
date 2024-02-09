@@ -1,3 +1,5 @@
+package Estudos;
+
 public class estreuturaREpeticao {
     public static void main(String[] args) {
 

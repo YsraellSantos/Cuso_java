@@ -1,3 +1,5 @@
+package Estudos;
+
 import javax.swing.JOptionPane;
 
 public class classeMath {

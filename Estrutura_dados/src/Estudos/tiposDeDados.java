@@ -1,3 +1,5 @@
+package Estudos;
+
 public class tiposDeDados {
 
     public static void main(String[] args) throws Exception {

@@ -1,3 +1,5 @@
+package Estudos;
+
 public class condicoes {
     public static void main(String[] args) {
         boolean estachovendo = false;
