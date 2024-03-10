@@ -1,8 +1,11 @@
 package ex05.devFesta;
 
 class VipDev {
+    @SuppressWarnings("unused")
     private int quantidadeCafé = 30;
+    @SuppressWarnings("unused")
     private int quantidadeSalgado = 50;
+    @SuppressWarnings("unused")
     private int coxinha = 70;
 
     private void bebeuCafe() {
